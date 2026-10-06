@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/soushiant/team-farahnaz-mirzaie/app/loading.tsx"],"sourcesContent":[" \nexport default function Loading() {\n  return (\n    <div className=\"flex items-center justify-center min-h-screen\">\n      <div className=\"animate-spin rounded-full h-12 w-12 border-t-2 border-b-2 border-primary\"></div>\n    </div>\n  );\n}\n"],"names":["Loading","className"],"mappings":";;;;;;AACe,SAASA;IACtB,qBACE,8OAAC;QAAIC,WAAU;kBACb,cAAA,8OAAC;YAAIA,WAAU;;;;;;;;;;;AAGrB"}}]
+}
