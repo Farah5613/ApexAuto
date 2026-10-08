@@ -1,0 +1,75 @@
+[
+  {
+    "id": "1",
+    "title": "Tesla Model S",
+    "image": "https://images.unsplash.com/photo-1617788138017-80ad40651399?auto=format&fit=crop&w=800&q=80",
+    "description": "All-electric sedan featuring instant acceleration, long driving range, and advanced autopilot capabilities."
+  },
+  {
+    "id": "2",
+    "title": "Porsche 911 Carrera",
+    "image": "https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?auto=format&fit=crop&w=800&q=80",
+    "description": "Iconic sports car with timeless design, precision engineering, and exceptional rear-engine performance."
+  },
+  {
+    "id": "3",
+    "title": "BMW M4 Competition",
+    "image": "https://images.unsplash.com/photo-1555215695-3004980ad54e?auto=format&fit=crop&w=800&q=80",
+    "description": "Aggressive high-performance coupe powered by a twin-turbo inline-6 with track-ready agility."
+  },
+
+  {
+    "id": 4,
+    "title": "Audi R8 V10 Performance",
+    "image": "https://images.unsplash.com/photo-1603584173870-7f23fdae1b7a?auto=format&fit=crop&w=800&q=80",
+    "description": "Mid-engine supercar featuring a naturally aspirated V10 engine and Quattro all-wheel drive."
+  },
+  {
+    "id": 5,
+    "title": "Mercedes-AMG GT",
+    "image": "https://images.unsplash.com/photo-1603584173870-7f23fdae1b7a?auto=format&fit=crop&w=800&q=80",
+    "description": "A striking blend of luxury and raw performance, equipped with a handcrafted biturbo V8 engine."
+  },
+  {
+    "id": 6,
+    "title": "Ford Mustang Dark Horse",
+    "image": "https://images.unsplash.com/photo-1584345604476-8ec5e12e42dd?auto=format&fit=crop&w=800&q=80",
+    "description": "Modern American muscle car boasting an aggressive stance and a powerful 5.0L V8 powertrain."
+  },
+  {
+    "id": 7,
+    "title": "Chevrolet Corvette Stingray",
+    "image": "https://images.unsplash.com/photo-1617788138017-80ad40651399?auto=format&fit=crop&w=800&q=80",
+    "description": "Revolutionary mid-engine sports car delivering supercar performance at an accessible price point."
+  },
+  {
+    "id": 8,
+    "title": "Lamborghini Huracán EVOt",
+    "image": "https://images.unsplash.com/photo-1544829099-b9a0c07fad1a?auto=format&fit=crop&w=800&q=80",
+    "description": "Exotic Italian supercar with sharp geometric aerodynamics and an intoxicating V10 exhaust note."
+  },
+  {
+    "id": 9,
+    "title": "Ferrari F8 Tributo",
+    "image": "https://images.unsplash.com/photo-1583121274602-3e2820c69888?auto=format&fit=crop&w=800&q=80",
+    "description": "A tribute to the ultimate V8 engine, offering race-bred aerodynamics and breathtaking speed."
+  },
+  {
+    "id": 10,
+    "title": "Nissan GT-R Nismo",
+    "image": "https://images.unsplash.com/photo-1617814076367-b759c7d7e738?auto=format&fit=crop&w=800&q=80",
+    "description": "Nicknamed 'Godzilla', this Japanese masterpiece offers blisteringly fast launch control and AWD precision."
+  },
+  {
+    "id": 11,
+    "title": "Aston Martin Vantage",
+    "image": "https://images.unsplash.com/photo-1600712242805-5f78671b24da?auto=format&fit=crop&w=800&q=80",
+    "description": "Prototypical British grand tourer combining elegant sculpture with visceral twin-turbo V8 power."
+  },
+  {
+    "id": 12,
+    "title": "McLaren 720S",
+    "image": "https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?auto=format&fit=crop&w=800&q=80",
+    "description": "Ultra-lightweight supercar built on a carbon-fiber tub with dihedral doors and astonishing speed."
+  }
+]
