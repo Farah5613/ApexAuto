@@ -43,5 +43,8 @@ next-env.d.ts
 .agents/
 .windsurf/
 .claude/
+<<<<<<< HEAD
 
 .vercel
+=======
+>>>>>>> 1e8b07a13d990c9c75fefbc359bfa1ab2e2275ea
